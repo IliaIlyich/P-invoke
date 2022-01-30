@@ -1,0 +1,15 @@
+C:\Desktop\C#\P_invoke\P-invoke\bin\Debug\net6.0\P-invoke.exe
+C:\Desktop\C#\P_invoke\P-invoke\bin\Debug\net6.0\P-invoke.deps.json
+C:\Desktop\C#\P_invoke\P-invoke\bin\Debug\net6.0\P-invoke.runtimeconfig.json
+C:\Desktop\C#\P_invoke\P-invoke\bin\Debug\net6.0\P-invoke.dll
+C:\Desktop\C#\P_invoke\P-invoke\bin\Debug\net6.0\ref\P-invoke.dll
+C:\Desktop\C#\P_invoke\P-invoke\bin\Debug\net6.0\P-invoke.pdb
+C:\Desktop\C#\P_invoke\P-invoke\obj\Debug\net6.0\P-invoke.csproj.AssemblyReference.cache
+C:\Desktop\C#\P_invoke\P-invoke\obj\Debug\net6.0\P-invoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\C#\P_invoke\P-invoke\obj\Debug\net6.0\P-invoke.AssemblyInfoInputs.cache
+C:\Desktop\C#\P_invoke\P-invoke\obj\Debug\net6.0\P-invoke.AssemblyInfo.cs
+C:\Desktop\C#\P_invoke\P-invoke\obj\Debug\net6.0\P-invoke.csproj.CoreCompileInputs.cache
+C:\Desktop\C#\P_invoke\P-invoke\obj\Debug\net6.0\P-invoke.dll
+C:\Desktop\C#\P_invoke\P-invoke\obj\Debug\net6.0\ref\P-invoke.dll
+C:\Desktop\C#\P_invoke\P-invoke\obj\Debug\net6.0\P-invoke.pdb
+C:\Desktop\C#\P_invoke\P-invoke\obj\Debug\net6.0\P-invoke.genruntimeconfig.cache
